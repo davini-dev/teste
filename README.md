@@ -1,5 +1,6 @@
 # Web3-Onboard + NextJs
 
+# Davini
 
 
 This should serve as a reference example for how to integrate Web3-Onboard with a NextJs app! 🙌
